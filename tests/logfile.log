@@ -1,0 +1,37 @@
+2020-08-01 11:04:00,419 :INFO :test_e2e :getting all the card titles
+2020-08-01 11:04:00,866 :INFO :test_e2e :entering country name as ind
+2020-08-01 11:04:06,420 :INFO :test_e2e :text recived from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-01 11:06:26,677 :INFO :test_e2e :getting all the card titles
+2020-08-01 11:06:27,018 :INFO :test_e2e :entering country name as ind
+2020-08-01 11:06:32,529 :INFO :test_e2e :text recived from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-01 11:13:53,464 :INFO :test_formSubmission :first name is Arpit
+2020-08-01 11:13:54,070 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:13:54,070 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:14:01,828 :INFO :test_e2e :getting all the card titles
+2020-08-01 11:14:02,282 :INFO :test_e2e :entering country name as ind
+2020-08-01 11:14:08,030 :INFO :test_e2e :text recived from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-01 11:24:36,749 :INFO :test_formSubmission :first name is Arpit
+2020-08-01 11:24:37,688 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:24:37,688 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:24:45,491 :INFO :test_e2e :getting all the card titles
+2020-08-01 11:24:45,794 :INFO :test_e2e :entering country name as ind
+2020-08-01 11:24:51,520 :INFO :test_e2e :text recived from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-01 11:40:11,504 :INFO :test_formSubmission :first name is Arpit
+2020-08-01 11:40:12,659 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:40:12,659 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:40:21,464 :INFO :test_e2e :getting all the card titles
+2020-08-01 11:40:22,228 :INFO :test_e2e :entering country name as ind
+2020-08-01 11:40:28,466 :INFO :test_e2e :text recived from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-01 11:44:32,567 :INFO :test_formSubmission :first name is Arpit
+2020-08-01 11:44:33,752 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:44:33,752 :INFO :test_formSubmission :first name is Nandini
+2020-08-01 11:44:42,866 :INFO :test_e2e :getting all the card titles
+2020-08-01 11:44:43,659 :INFO :test_e2e :entering country name as ind
+2020-08-01 11:44:49,649 :INFO :test_e2e :text recived from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-01 21:40:58,510 :INFO :test_formSubmission :first name is Arpit
